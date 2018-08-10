@@ -1,0 +1,2 @@
+# MacRecord
+使用AVCaptureScreenInput ，AVAssetWriter实现的Mac屏幕录制
